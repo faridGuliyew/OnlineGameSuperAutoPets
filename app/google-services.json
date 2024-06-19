@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007719892333",
+    "project_id": "firstonlinegame-81e6d",
+    "storage_bucket": "firstonlinegame-81e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007719892333:android:c1229e5779301bb5d3c664",
+        "android_client_info": {
+          "package_name": "com.example.myfirstonlinegame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRS8_JXJhhpTa-CYsCWa10_Sl2SlXS3SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
